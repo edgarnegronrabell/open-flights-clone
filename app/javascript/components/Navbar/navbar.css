@@ -1,0 +1,18 @@
+.navbar-header {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 0;
+}
+
+.brand, .subheader {
+  margin: 0;
+}
+
+.brand {
+  margin-bottom: .5rem;
+}
+
+.subheader {
+  font-weight: 300;
+}
